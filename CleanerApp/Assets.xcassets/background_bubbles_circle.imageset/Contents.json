@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "background-bubbles-circle-11563739540ter5tqdokj 1 (Traced).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "background-bubbles-circle-11563739540ter5tqdokj 1 (Traced)@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "background-bubbles-circle-11563739540ter5tqdokj 1 (Traced)@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
